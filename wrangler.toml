@@ -1,0 +1,7 @@
+name = "kbt-admin"
+main = "index.js"
+compatibility_date = "2024-01-01"
+
+[[kv_namespaces]]
+binding = "KBT_ADMIN"
+id = "42396f651c714ac1bead2677078a3702"
